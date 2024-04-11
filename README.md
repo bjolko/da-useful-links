@@ -1,7 +1,7 @@
 # Useful links
 * [Основы статистики at Stepik](https://stepik.org/course/76/promo?search=3699222766)
 * [ML course by ODS](https://mlcourse.ai/)
-* [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main)
+* [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/])
 * [DataLearn](https://datalearn.ru/)
 * [Роман Бунин – Навыки для визуализации данных](https://www.youtube.com/watch?v=mymr4Y_pA9A)
 * [Data Wrangling using dplyr (R)](https://suzan.rbind.io/categories/tutorial/)
