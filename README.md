@@ -5,6 +5,7 @@
 * [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/)
 * [DataLearn](https://datalearn.ru/)
 * [MITx: Introduction to Computer Science and Programming Using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python)
+* [Путь дата джедая: подборка в основном бесплатных курсов для ML/DL](https://aa-tolmachev.notion.site/5aa52813f0904c289f7fcfc950929841?pvs=4)
 
 ## Learning: Articles, Videos, Telegram channels
 * [Роман Бунин – Навыки для визуализации данных](https://www.youtube.com/watch?v=mymr4Y_pA9A)
