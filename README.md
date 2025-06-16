@@ -7,6 +7,8 @@
 * [MITx: Introduction to Computer Science and Programming Using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python)
 * [Путь дата джедая: подборка в основном бесплатных курсов для ML/DL](https://aa-tolmachev.notion.site/5aa52813f0904c289f7fcfc950929841?pvs=4)
 * [Визуализация данных и продвинутое Tableau (Роман Бунин, Анастасия Кузнецова)](https://karpov.courses/datavisualization)
+* [Введение в Git](https://ru.hexlet.io/courses/intro_to_git)
+
 ## Learning: Articles, Videos, Telegram channels
 * [Роман Бунин – Навыки для визуализации данных](https://www.youtube.com/watch?v=mymr4Y_pA9A)
 * [Data Wrangling using dplyr (R)](https://suzan.rbind.io/categories/tutorial/)
@@ -17,3 +19,8 @@
 * [DSML KZ in Telegram](https://t.me/ml_jobs_kz)
 * [djinni.co](https://djinni.co/)
 * [Remotelist](https://remotelist.ru/)
+
+## Learning code with Games
+* [Code Combat](https://codecombat.com/play)
+* [CodeSignal](https://codesignal.com/)
+* [CheckiO](https://checkio.org/)
